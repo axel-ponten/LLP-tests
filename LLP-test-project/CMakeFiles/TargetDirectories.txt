@@ -1,0 +1,3 @@
+/home/axel/i3/testing-PROPOSAL/LLP-test-project/CMakeFiles/main.dir
+/home/axel/i3/testing-PROPOSAL/LLP-test-project/CMakeFiles/edit_cache.dir
+/home/axel/i3/testing-PROPOSAL/LLP-test-project/CMakeFiles/rebuild_cache.dir
